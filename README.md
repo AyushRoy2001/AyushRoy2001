@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AyushRoy2001
+- 👋 Hi, I’m @AyushRoy124421
 - 👀 I’m interested in Machine Learning And Robotics(Mechatronics)
 - 🌱 I’m currently learning Electrical Engineering from Jadavpur University(India,West Bengal)
 - 💞️ I’m looking to collaborate on ...
