@@ -5,6 +5,4 @@
 - 📫 How to reach me Whatsapp No-9163905365 , gmail-aroy80321@gmail.com
 
 <!---
-1. IPL WIN PREDICTOR
-https://github.com/AyushRoy2001/IPL-Win-Predictor-ML-Project.git
 --->
