@@ -1,10 +1,12 @@
 # 👋 Hi, I’m Ayush Roy
 ![Github1](https://user-images.githubusercontent.com/94052139/144902341-7c9b596b-c4d8-424a-b75e-bbe591dc4592.jpg)
 
+# About Me
 - 👀 I’m interested in Machine Learning, Deep Learning And Robotics(Mechatronics)
 - 🌱 I’m currently learning Electrical Engineering from Jadavpur University(India,West Bengal)
-- 💞️ I’m looking to collaborate on ML projects and Deep learning projects related to computer vision and NLP
+- 💞️ I’m looking to collaborate on ML projects and Deep learning projects related to computer vision and NLP with other coders and developers
 - 📫 How to reach me Whatsapp No-9163905365 , gmail-aroy80321@gmail.com
+- ![Logo](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
 
 # Familiar With
 ![Logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![Logo](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,6 +37,3 @@ aroy80321@gmail.com<br>
 ![Logo](https://github-readme-stats.vercel.app/api?username=AyushRoy2001)
 ![Logo](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRoy2001)
 ![Logo](https://github-readme-streak-stats.herokuapp.com/?user=AyushRoy2001)
-
-# Trophies
-![Logo](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
