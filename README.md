@@ -26,7 +26,8 @@
 ![Logo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 # Contact me
-![Logo]()
+![Logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+aroy80321@gmail.com
 
 # My Stats
 ![Logo](https://github-readme-stats.vercel.app/api?username=AyushRoy2001)
