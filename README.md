@@ -35,3 +35,6 @@ aroy80321@gmail.com<br>
 ![Logo](https://github-readme-stats.vercel.app/api?username=AyushRoy2001)
 ![Logo](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRoy2001)
 ![Logo](https://github-readme-streak-stats.herokuapp.com/?user=AyushRoy2001)
+
+# Trophies
+![Logo](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
