@@ -5,7 +5,6 @@
 - 👀 I’m interested in Machine Learning, Deep Learning And Robotics(Mechatronics)
 - 🌱 I’m currently learning Electrical Engineering from Jadavpur University(India,West Bengal)
 - 💞️ I’m looking to collaborate on ML projects and Deep learning projects related to computer vision and NLP with other coders and developers
-- 📫 How to reach me Whatsapp No-9163905365 , gmail-aroy80321@gmail.com
 - ![Logo](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
 
 # Familiar With
@@ -30,7 +29,7 @@
 ![Logo](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Logo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-# Contact me
+# Contact me 📫
 ![Logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br>
 aroy80321@gmail.com<br>
 ![Logo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)<br>
