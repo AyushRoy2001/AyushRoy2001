@@ -36,6 +36,4 @@ aroy80321@gmail.com<br>
 9163905365
 
 # My Stats :muscle:
-![Logo](https://github-readme-stats.vercel.app/api?username=AyushRoy2001)
-![Logo](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRoy2001)
 ![Logo](https://github-readme-streak-stats.herokuapp.com/?user=AyushRoy2001)
