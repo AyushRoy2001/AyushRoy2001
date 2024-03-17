@@ -2,9 +2,9 @@
 ![Github1](https://user-images.githubusercontent.com/94052139/144902341-7c9b596b-c4d8-424a-b75e-bbe591dc4592.jpg)
 
 # About Me :eye_speech_bubble:
-- 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision And Robotics(Mechatronics)
-- 🌱 I’m currently an Electrical Engineering undergraduate of Jadavpur University(India,West Bengal)
-- 💞️ I’m looking to collaborate on ML projects and Deep learning projects related to computer vision and NLP with other coders and developers and research oppurtunities in Computer Vision, Robotics and Signal Processing.
+- 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics(Mechatronics)
+- 🌱 I’m currently an Electrical Engineering undergraduate at Jadavpur University(India, West Bengal)
+- 💞️ I’m looking to collaborate on ML projects and Deep learning projects related to computer vision and NLP with other coders and developers and research opportunities in Computer Vision, Robotics, and Signal Processing.
 - ![Logo](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
 
 # Familiar With :confused:
