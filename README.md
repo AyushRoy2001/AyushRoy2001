@@ -1,9 +1,10 @@
 # 👋 Hi, I’m Ayush Roy
 
-# About Me :eye_speech_bubble:
-- 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics(Mechatronics)
-- 🌱 I’m currently an Electrical Engineering undergraduate at Jadavpur University(India, West Bengal)
-- 💞️ I’m looking to collaborate on ML projects and Deep learning projects related to computer vision and NLP with other coders and developers and research opportunities in Computer Vision, Robotics, and Signal Processing.
+## About Me 😊👋 <a id="about-me"></a>
+- 👀 **I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics. I am currently focused on researching multimodal feature fusion and task-aware feature subspace.** 
+- 🌱 **I’m currently an Electrical Engineering undergraduate at Jadavpur University(India, West Bengal) and will soon start a PhD at the University of Buffalo under the supervision of Prof. Vishnu Lokhande.**
+- 💞️ **I’m looking for research collaborations in Computer Vision for Biometrics, Biomedical Imaging,  and Signal Processing**
+- ✌️ **I have published in popular computer vision conferences (ICDAR, ACPR, ISBI) and journals (IEEE Transactions)**
 
 # Familiar With :confused:
 ![Logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) 
