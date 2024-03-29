@@ -4,7 +4,6 @@
 - 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics(Mechatronics)
 - 🌱 I’m currently an Electrical Engineering undergraduate at Jadavpur University(India, West Bengal)
 - 💞️ I’m looking to collaborate on ML projects and Deep learning projects related to computer vision and NLP with other coders and developers and research opportunities in Computer Vision, Robotics, and Signal Processing.
-- ![Logo](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
 
 # Familiar With :confused:
 ![Logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) 
@@ -39,3 +38,4 @@
 
 # My Stats :muscle:
 ![Logo](https://github-readme-streak-stats.herokuapp.com/?user=AyushRoy2001)
+![Logo](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
