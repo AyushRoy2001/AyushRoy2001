@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Ayush Roy
-![Github1](https://user-images.githubusercontent.com/94052139/144902341-7c9b596b-c4d8-424a-b75e-bbe591dc4592.jpg)
 
 # About Me :eye_speech_bubble:
 - 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics(Mechatronics)
@@ -29,11 +28,14 @@
 ![Logo](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Logo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-# Contact me 📫
-![Logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br>
-aroy80321@gmail.com<br>
-![Logo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)<br>
-9163905365
+## Contact me 📫 <a id="contact-me"></a>
+
+[![GMail Logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aroy80321@gmail.com)
+
+## Other links ☎️ <a id="other-links"></a>
+
+[![Google Scholar Logo](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=exgiMpgAAAAJ&hl=en)
+[![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-roy-59a79b223/)
 
 # My Stats :muscle:
 ![Logo](https://github-readme-streak-stats.herokuapp.com/?user=AyushRoy2001)
