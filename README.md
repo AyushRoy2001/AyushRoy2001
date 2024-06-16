@@ -41,4 +41,4 @@
 ![Logo](https://github-readme-streak-stats.herokuapp.com/?user=AyushRoy2001)
 ![Logo](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
 <img src="https://myreadme.vercel.app/api/embed/AyushRoy2001?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<img src="https://widgetbite.com/stats/{AyushRoy2001}" alt="watching_count" />
+<img src="https://widgetbite.com/stats/AyushRoy2001" alt="watching_count" />
