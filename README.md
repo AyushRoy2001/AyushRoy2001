@@ -40,4 +40,4 @@
 # My Stats :muscle:
 ![Logo](https://github-readme-streak-stats.herokuapp.com/?user=AyushRoy2001)
 ![Logo](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushRoy2001&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
