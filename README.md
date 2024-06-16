@@ -2,7 +2,7 @@
 
 ## About Me 😊👋 <a id="about-me"></a>
 - 👀 **I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics. I am currently focused on researching multimodal feature fusion and task-aware feature subspace.** 
-- 🌱 **I have completed by undergraduate in Electrical Engineering at Jadavpur University(India, West Bengal) and am currently a first-year CSE PhD student at the State University of New York, Buffalo under the supervision of Prof. Vishnu Lokhande.**
+- 🌱 **I have completed my undergraduate in Electrical Engineering at Jadavpur University(India, West Bengal) and am currently a first-year CSE PhD student at the State University of New York, Buffalo under the supervision of Prof. Vishnu Lokhande.**
 - 💞️ **I’m looking for research collaborations in Computer Vision for Biometrics, Biomedical Imaging,  and Signal Processing**
 - ✌️ **I have published in popular computer vision conferences (ICDAR, ACPR, ISBI) and journals (IEEE Transactions)**
 
