@@ -38,6 +38,7 @@
 [![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-roy-59a79b223/)
 
 # My Stats :muscle:
+<img src="https://komarev.com/ghpvc/?username=AyushRoy2001&color=brightgreen" alt="watching_count" />
 ![Logo](https://github-readme-streak-stats.herokuapp.com/?user=AyushRoy2001)
 ![Logo](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
 <img src="https://myreadme.vercel.app/api/embed/AyushRoy2001?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
